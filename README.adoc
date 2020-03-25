@@ -1,0 +1,7 @@
+Pet project to play with https://www.elastic.co/[Elastic Search] and https://kotlinlang.org/[Kotlin] / https://spring.io/projects/spring-boot[Spring Boot].
+
+#### Referencies
+
+* https://mkyong.com/spring-boot/spring-boot-spring-data-elasticsearch-example/
+* https://docs.spring.io/spring-data/elasticsearch/docs/3.2.6.RELEASE/reference/html/#reference
+
