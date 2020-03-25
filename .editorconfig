@@ -1,6 +1,6 @@
 root = true
 
-[*.{ks,kts,yml}]
+[*.{ks,kts,yml,yaml}]
 end_of_line = lf
 insert_final_newline = true
 charset = utf-8

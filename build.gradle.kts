@@ -22,6 +22,7 @@ dependencies {
     implementation(kotlin("reflect"))
 
     implementation("ch.qos.logback", "logback-classic", "1.2.3")
+    implementation("org.springframework.boot","spring-boot-starter-data-elasticsearch","2.2.5.RELEASE")
 
     //  Test and lint dependencies
     testImplementation("org.amshove.kluent", "kluent", kluentVersion)
